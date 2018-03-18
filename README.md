@@ -1,2 +1,2 @@
 # hello-world
-test repo
+test repo for the Hello-world dingus
