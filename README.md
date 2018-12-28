@@ -1,2 +1,2 @@
 # hello-world
-test repo for the Hello-world project
+test repo for the Hello-world purple
